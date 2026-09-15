@@ -117,14 +117,3 @@ All credentials and secrets are excluded from this repository and are expected t
 - Integration with ML pipelines
 
 ---
-
-## 👤 Author
-**Roshan Fareed N**  
-Data Engineer (Aspiring)  
-- LinkedIn: https://linkedin.com/in/roshanfareed53
-- GitHub: https://github.com/ROSHANFAREED
-
----
-
-## 📜 License
-This project is licensed under the **MIT License**.
